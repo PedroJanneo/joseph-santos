@@ -14,8 +14,8 @@ import niwan from './assets/Niwan.jpeg';
 import marcos from './assets/marcos.png';
 import claudio from './assets/Cláudio.jpeg';
 import alex from './assets/Alex.jpeg';
-import valkiria from './assets/Valkiria.jpeg'; 
-import mariane from './assets/Mariane.jpeg';
+import valkiria from './assets/valkiria.jpeg'; 
+import mariane from './assets/mariane.jpeg';
 import { Timeline } from './Timeline/Timeline';
 
 function App() {
